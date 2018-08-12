@@ -1,2 +1,2 @@
-# testRepo v5
+# testRepo v6
 my test repository for the AWS CodeDeploy plugin
