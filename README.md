@@ -1,2 +1,2 @@
-# testRepo v17.0.37
+# testRepo v18.0.37
 my test repository for the AWS CodeDeploy plugin
